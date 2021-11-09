@@ -13,9 +13,9 @@ Aplicativo Desenvolvido por <a href="https://www.instagram.com/yuritome/">Yuri M
 2.  **Execute o Projeto com o expo!**
     Agora precisamos executar o projeto!
     
- 
+    ```sh
     expo start
-
+    ```
     
 3.  **Teste o Projeto com o expo!**
 
