@@ -47,8 +47,17 @@ function MaisNavigator() {
         <Stack.Screen
           name="Login"
           component={Login}
-          options={{
+          options={{ 
             title: 'Login',
+            headerStyle: {
+              shadowColor: 'transparent',
+              elevation: 0,
+              backgroundColor: Colors.white,
+              shadowRadius: 0,
+              shadowOffset: {
+                  height: 0,
+              }
+            },
           }}
         />
       </Stack.Navigator>

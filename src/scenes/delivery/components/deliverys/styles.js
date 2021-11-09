@@ -57,6 +57,7 @@ export default StyleSheet.create({
   },
   categoriesContainer: {
     paddingBottom: 16,
+    paddingTop: 16,
   },
   cartPreloader: {
     flex: 1,
@@ -79,7 +80,9 @@ export default StyleSheet.create({
     paddingRight: 15,
     fontWeight: "600"
   },
-  deliverysAllList: {},
+  deliverysAllList: {
+    
+  },
   cardImg: {borderRadius: 4},
   cardOverlay: {
     flex: 1,
@@ -105,5 +108,11 @@ export default StyleSheet.create({
     width: 104,
     height: 72,
     resizeMode: 'cover',
+  },
+  registerKeyBoardAvoid: {
+    flex: 1
+  },
+  deliverys:{
+    flex:1
   }
 });
