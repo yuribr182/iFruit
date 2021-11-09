@@ -2,16 +2,13 @@
   Desafio Framework - iFruit
 </h1>
 
-Aplicativo Desenvolvido por <a href="https://www.instagram.com/yuritome/">Yuri Mendonça</a>
 
-1.  **Execute os pacotes.**
+1.  **Instalação.**
 
     ```sh
-    npm install ou
-    yarn install
+    npm install
     ```
 2.  **Execute o Projeto com o expo!**
-    Agora precisamos executar o projeto!
     
     ```sh
     expo start
@@ -19,13 +16,10 @@ Aplicativo Desenvolvido por <a href="https://www.instagram.com/yuritome/">Yuri M
     
 3.  **Teste o Projeto com o expo!**
 
-    Depois de ter executado o expo é só escaniar o código qr! 
+    Depois de ter executado o expo é só escanear o qr code! 
      
 ## Estruturas de pastas
 
-Saiba a estruturação deste projeto / src
-
-     
     ├── src
       ├── components
         ├── buttons 
